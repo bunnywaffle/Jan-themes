@@ -1,0 +1,121 @@
+{
+  "id": "muted-dark",
+  "displayName": "Muted Dark",
+  "reduceTransparent": true,
+  "nativeTheme": "dark",
+  "variables": {
+      "app": {
+      "bg": "45, 9%, 18%, 1",
+      "transparent": "0, 1%, 16%, 0.9",
+      "border": "60, 8%, 23%, 1",
+      "link": "37, 5%, 20%, 1",
+      "code-block": "220, 23%, 20%, 1"
+        },
+        "primary": {
+          "bg": {
+            "__default": "240, 2%, 20%, 1",
+            "soft": "240, 2%, 20%, 0.15"
+          },
+          "fg": "48, 19%, 10%, 1"
+        },
+        "secondary": {
+          "bg": "0, 0%, 25%, 1",
+          "fg": "0, 0%, 70%, 1"
+        },
+        "tertiary": {
+          "bg": "0, 1%, 18%, 1"
+        },
+        "disabled": {
+          "bg": "0, 0%, 20%, 1",
+          "fg": "0, 0%, 40%, 1"
+        },
+        "top-panel": {
+          "bg": "45, 4%, 17%, 1"
+        },
+        "bottom-panel": {
+          "bg": "0, 1%, 14%, 0.9"
+        },
+        "ribbon-panel": {
+          "bg": "45, 4%, 17%, 1",
+          "border": "0, 0%, 25%, 1",
+          "icon": "0, 0%, 60%, 1",
+          "icon-hover": "240, 2%, 20%, 1",
+          "icon-active": "0, 0%, 80%, 1",
+          "icon-active-bg": "240, 2%, 20%, 1"
+        },
+        "left-panel": {
+          "bg": "45, 4%, 15%, 0.9",
+          "menu": "0, 0%, 75%, 1",
+          "menu-hover": "240, 2%, 20%, 1",
+          "menu-active": "48, 19%, 10%, 1",
+          "icon-active-bg": "240, 2%, 20%, 1"
+        },
+        "center-panel": {
+          "bg": "60, 4%, 19%, 1"
+        },
+        "right-panel": {
+          "bg": "45, 4%, 17%, 1"
+        },
+        "tooltip": {
+          "bg": "0, 0%, 25%, 1",
+          "fg": "0, 0%, 80%, 1"
+        },
+        "switch": {
+          "bg": "0, 0%, 25%, 1",
+          "fg": "0, 0%, 80%, 1"
+        },
+        "dropdown-menu": {
+          "hover-bg": "240, 2%, 20%, 1"
+        },
+        "scrollbar": {
+          "tracker": "0, 0%, 20%, 1",
+          "thumb": "0, 0%, 30%, 1"
+        },
+        "input": {
+          "bg": "60, 4%, 22%, 1",
+          "placeholder": "0, 0%, 50%, 1",
+          "icon": "0, 0%, 60%, 1",
+          "border": "0, 0%, 25%, 1"
+        },
+        "textarea": {
+          "bg": "60, 4%, 22%, 1",
+          "placeholder": "0, 0%, 50%, 1",
+          "icon": "0, 0%, 60%, 1",
+          "border": "0, 0%, 25%, 1"
+        },
+        "select": {
+          "input-bg": "48, 19%, 10%, 1",
+          "bg": "0, 1%, 16%, 1",
+          "placeholder": "0, 0%, 50%, 1",
+          "icon": "0, 0%, 60%, 1",
+          "options-active-bg": "240, 2%, 20%, 1",
+          "border": "0, 0%, 25%, 1"
+        },
+        "progress-track": {
+          "bg": "0, 0%, 25%, 1"
+        },
+        "modal": {
+          "overlay": "0, 1%, 16%, 0.8",
+          "bg": "0, 1%, 18%, 1",
+          "fg": "0, 0%, 80%, 1"
+        },
+        "loader": {
+          "bg": "240, 2%, 20%, 0.2",
+          "fg": "0, 0%, 70%, 1",
+          "active-bg": "240, 2%, 20%, 0.4"
+        },
+        "toaster": {
+          "bg": "0, 1%, 20%, 1",
+          "text-title": "0, 0%, 90%, 1",
+          "close-icon": "0, 0%, 70%, 1",
+          "text-desc": "0, 0%, 80%, 1"
+        },
+        "slider": {
+          "track-bg": "0, 0%, 25%, 1",
+          "thumb-bg": "0, 0%, 70%, 1"
+        },
+        "resize": {
+          "bg": "0, 0%, 20%, 1"
+        }
+  }
+}
